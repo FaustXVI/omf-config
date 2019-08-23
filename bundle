@@ -1,4 +1,4 @@
 package bang-bang
-package peco
+package https://github.com/jethrokuan/fzf
 theme bobthefish
 theme default
